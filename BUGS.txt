@@ -1,0 +1,2 @@
+BUGS:
+1. Permission logic does not work as intended.
